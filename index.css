@@ -1,0 +1,11 @@
+html {
+    max-width: 70ch;
+    padding: 2ch;
+    margin: auto;
+    line-height: 1.35;
+    font-family: sans-serif;
+}
+
+pre {
+    text-wrap-mode: unset;
+}
